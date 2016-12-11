@@ -1,0 +1,36 @@
+/* Hello I am a comment */
+h1 {
+   border: solid;
+   padding: 10px;
+   margin: 5px;
+   margin-left: 2px;
+   color: red;
+   background-color: green;
+   width: 13%;
+   font-family: Georgia, "Times New Roman", serif;
+}
+
+h2 {
+  border: solid;
+  width: 26%;
+  padding: 2px;
+  border-style: thick double;
+}
+
+/*nav ul {
+  border: solid;
+}
+
+nav li {
+  display: inline-block;
+  margin: 25px;
+}*/
+
+.home {
+  border-right: solid;
+  padding-right: 15px;
+}
+
+.scary {
+  color: red;
+}
